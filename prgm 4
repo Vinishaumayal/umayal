@@ -1,0 +1,8 @@
+x='123456'
+y=int(float(x))
+type(x)
+type(y)
+print y
+a='12'
+b='13'
+print( int(float(a))+ int(float(b)) )
